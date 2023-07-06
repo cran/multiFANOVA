@@ -1,0 +1,8 @@
+83f906cacc7c35047c03e681bea9aa8a *DESCRIPTION
+6cb33587d018b62df5b07cc164380e4f *NAMESPACE
+59d67d15813501e38b410a278000f7fd *R/functions_auxiliary.R
+124eef106f899395cb1387b0ac8b4a61 *R/functions_main.R
+967632e6633ad2cf8f11c39bc1b276f2 *R/functions_summary.R
+afdc859e7e586e936f755eb2d99403f0 *man/multiFANOVA.Rd
+c77d849d2e70d71d7d80d89d711d8d1c *man/ph_test_statistic.Rd
+a7bb39237cde4dac536d3c38604cdbca *man/summary.multifanova.Rd
